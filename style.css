@@ -1,1 +1,7 @@
-
+body{
+    text-align: center;
+    background: rgb(208, 241, 208) ;
+}
+.capa {
+    width: 100%;
+}
