@@ -82,4 +82,5 @@ ul li {
 .foto-beneficios {
     width: 25%;
     border-radius: 15%;
+    box-shadow: 2px 2px 15px #000000;
 }
